@@ -17,4 +17,4 @@ docker-compose exec web python manage.py migrate --noinput
 3. Создать суперпользователя
 docker-compose exec web python manage.py createsuperuser
 4. Собрать статику проекта 
-docker-compose exec web python manage.py collectstatic --no-input 
+docker-compose exec web python manage.py collectstatic --no-input
