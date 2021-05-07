@@ -1,4 +1,8 @@
 # api_yamdb
+https://github.com/KarpovDenis74/yamdb_final/actions/workflows/yamdb_workflow/badge.svg
+
+
+
 Проект api_yamdb реализует API-сервис проект YATUBE
 - авторизация пользователей
 - запрос информации из базы проекта
