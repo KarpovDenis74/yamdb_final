@@ -9,7 +9,6 @@ services:
     env_file:
       - ./.env
   web:
-    # build: .
     image: fotokarpov/yamdb_final:v1.0
     restart: always
     volumes:
