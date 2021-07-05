@@ -23,7 +23,6 @@ https://github.com/KarpovDenis74/yamdb_final/actions/workflows/yamdb_workflow/ba
 
 
 
-
 Запуск 
 1. развернуть образ из docker-файла
 2. Сделать миграции
